@@ -10,10 +10,15 @@ Jun 2023 - PresentJun 2023 - Present
 📊 Data: Environmental monitoring dataset
 
 ✅ Extracted insights from 53K environmental readings.
+
 ✅ Cleaned, preprocessed, and quality assured the dataset.
+
 ✅ Renamed columns for clearer descriptions.
+
 ✅ Handled null values, duplicates, and missing data.
+
 ✅ Converted data types for accurate analysis.
+
 ✅ Exported the cleaned dataset to SQL server for further use.
 
 
