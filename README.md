@@ -6,7 +6,11 @@ Jun 2023 - PresentJun 2023 - Present
 
 -
   - 🔬 Project: Analyzing Environmental Insights for 53K Readings
+
+  
 🔧 Tools: Python, MySQL, Pandas
+
+
 📊 Data: Environmental monitoring dataset
 
 ✅ Extracted insights from 53K environmental readings.
