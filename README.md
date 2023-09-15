@@ -27,6 +27,8 @@ Jun 2023 - PresentJun 2023 - Present
 
 
 🌐 SQL Queries:
+
+
  1️⃣ Average temperature recorded for each device.
 
 
